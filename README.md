@@ -1,4 +1,4 @@
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ------------------------Инструкция по установке расширения Cookie Checker на ПК----------------------------------
 
 Поскольку расширение еще не опубликовано в Chrome Web Store, для установки выполните следующие шаги:
@@ -27,4 +27,3 @@
 Планы на будущее:
 Мы планируем загрузить расширение в официальный магазин Chrome Web Store. После прохождения модерации вы сможете устанавливать его оттуда буквально в пару кликов, и режим разработчика для этого не потребуется.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
