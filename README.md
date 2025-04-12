@@ -27,4 +27,4 @@
 Планы на будущее:
 Мы планируем загрузить расширение в официальный магазин Chrome Web Store. После прохождения модерации вы сможете устанавливать его оттуда буквально в пару кликов, и режим разработчика для этого не потребуется.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Лицензия - 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Лицензия - https://github.com/lunutuk/Checker/blob/main/LICENSE
